@@ -21,7 +21,7 @@
 
 ```js
 const karthik = {
-  role:       "Frontend Developer",
+  role:       "Software Developer",
   focus:      ["thoughtful interfaces", "practical code"],
   stack:      ["React", "Next.js", "TypeScript", "Tailwind CSS"],
   exploring:  ["AI tools", "ethical hacking", "local-first apps"],
