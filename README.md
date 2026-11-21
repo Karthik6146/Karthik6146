@@ -26,7 +26,8 @@
 - 🎨 Software developer who loves the space where **design meets code**
 - ⚡ Building with **React, Next.js and TypeScript**
 - 🔒 Fan of **local-first, privacy-first** tools
-- 🤖 Exploring **AI tools** and **ethical hacking**
+- 🤖 Building **on-device AI**: voice assistants, captions, local LLMs
+- 🛡️ Exploring **ethical hacking**
 - 🌱 Always learning by building
 
 </td>
@@ -54,7 +55,7 @@ const karthik = {
 <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,html,css,tailwind,bootstrap&theme=dark" alt="Frontend"/>
 
 **Backend & data**<br/>
-<img src="https://skillicons.dev/icons?i=nodejs,python,supabase,postgres&theme=dark" alt="Backend"/>
+<img src="https://skillicons.dev/icons?i=nodejs,python,supabase,postgres,firebase&theme=dark" alt="Backend"/>
 
 **Design & tools**<br/>
 <img src="https://skillicons.dev/icons?i=figma,ps,git,github,vercel,wordpress,bitbucket,vscode&theme=dark" alt="Tools"/>
@@ -72,41 +73,69 @@ Local-first AI captions for Hinglish, Hindi and English videos. Word-timed capti
 
 <img src="https://img.shields.io/badge/Next.js-111111?style=flat-square&logo=nextdotjs"/> <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/> <img src="https://img.shields.io/badge/FFmpeg-007808?style=flat-square&logo=ffmpeg&logoColor=white"/> <img src="https://img.shields.io/badge/Whisper-0F8F6F?style=flat-square"/>
 
+<a href="https://karthik6146.github.io/LoCap/"><img src="https://img.shields.io/badge/Open_app-6d28d9?style=for-the-badge&logo=githubpages&logoColor=white"/></a>
+
 </td>
 <td width="50%" valign="top">
 
-### 🧰 [ToolsJunction](https://github.com/Karthik6146/ToolsJunction)
-39 free image and PDF tools: resize, edit, convert, merge, sign, protect. Your files never leave your device.
+### 🎙️ [Ninja Assistant](https://github.com/Karthik6146/Ninja-Assistant)
+JARVIS-style voice assistant for Windows that runs on your GPU. Speaks English, Hindi and Hinglish, controls your PC, reads Gmail and WhatsApp, researches the web.
 
-<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/> <img src="https://img.shields.io/badge/Privacy-first-e5322d?style=flat-square"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/Ollama_·_Qwen-111111?style=flat-square&logo=ollama"/> <img src="https://img.shields.io/badge/Whisper-0F8F6F?style=flat-square"/> <img src="https://img.shields.io/badge/Kokoro_TTS-a78bfa?style=flat-square"/>
 
-<a href="https://karthik6146.github.io/ToolsJunction/"><img src="https://img.shields.io/badge/Open_app-e5322d?style=for-the-badge&logo=googlechrome&logoColor=white"/></a>
+<a href="https://karthik6146.github.io/Ninja-Assistant/"><img src="https://img.shields.io/badge/Project_page-0ea5e9?style=for-the-badge&logo=githubpages&logoColor=white"/></a>
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
+### 🧰 [ToolsJunction](https://github.com/Karthik6146/ToolsJunction)
+39 free image and PDF tools: resize, edit, convert, merge, sign, protect. Your files never leave your device.
+
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/> <img src="https://img.shields.io/badge/Runs_in_browser-e5322d?style=flat-square&logo=googlechrome&logoColor=white"/>
+
+<a href="https://karthik6146.github.io/ToolsJunction/"><img src="https://img.shields.io/badge/Open_app-6d28d9?style=for-the-badge&logo=githubpages&logoColor=white"/></a>
+
+</td>
+<td width="50%" valign="top">
+
 ### 💸 [PaisaPilot](https://github.com/Karthik6146/PaisaPilot)
-Invite-only personal budgets: daily spending, categories, lend/borrow records, calculators and dark mode.
+Monthly pocket-money tracker: private profiles, daily expenses, custom categories, lending records, calculators and dark mode.
 
 <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/> <img src="https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white"/> <img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel"/>
 
-<a href="https://paisa-pilot-umber.vercel.app"><img src="https://img.shields.io/badge/Live_demo-6d28d9?style=for-the-badge&logo=vercel&logoColor=white"/></a>
+<a href="https://paisa-pilot-umber.vercel.app"><img src="https://img.shields.io/badge/Live_demo-0ea5e9?style=for-the-badge&logo=vercel&logoColor=white"/></a>
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🧑‍🎨 [Portfolio](https://github.com/Karthik6146/Port-Karthik)
+My personal site and blog: projects, writing and how I think about building thoughtful, easy-to-use websites.
+
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/> <img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel"/>
+
+<a href="https://port-karthik-3oml.vercel.app/"><img src="https://img.shields.io/badge/Visit_site-6d28d9?style=for-the-badge&logo=vercel&logoColor=white"/></a>
 
 </td>
 <td width="50%" valign="top">
 
 ### 🍽️ [Restaurant Website](https://github.com/Karthik6146/Restaurant-Website)
-Restaurant experience with menu, reservations and specials pages. Fully responsive.
+Responsive restaurant site with menu filters, dark mode and Firebase-backed table reservations.
 
-<img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react"/> <img src="https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white"/>
+<img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react"/> <img src="https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white"/> <img src="https://img.shields.io/badge/Firebase-DD2C00?style=flat-square&logo=firebase&logoColor=white"/>
 
 <a href="https://restaurant-website-one-kappa.vercel.app"><img src="https://img.shields.io/badge/Live_demo-0ea5e9?style=for-the-badge&logo=vercel&logoColor=white"/></a>
 
 </td>
 </tr>
 </table>
+
+<div align="center">
+<a href="https://github.com/Karthik6146?tab=repositories"><b>See all repositories →</b></a>
+</div>
 
 ## 📊 GitHub stats
 
